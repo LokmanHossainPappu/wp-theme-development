@@ -1,0 +1,13 @@
+/* 
+Theme Name: Timer Master
+Author: Lokman Hossain
+version: v1.2
+Description: make a wrodpress theme 
+*/
+.dpsp-networks-btns-wrapper {
+    list-style: none!important;
+    padding: 0!important;
+    margin: 0!important;
+    width: 200px;
+}
+
